@@ -11,3 +11,9 @@
     border: 5px solid black;
 }
 
+.challenge-box-1 {
+background-color: green;
+width:100vu;
+height: 50%;
+display:block;
+}
